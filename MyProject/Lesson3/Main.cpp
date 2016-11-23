@@ -16,8 +16,11 @@ int main() {
 	{
 		FIGHTER_COST = 25, BOMBER_COST, LINKOR_COST = 50
 	};
+	int i;
+
 	ShipCost myShip = BOMBER_COST;
 	cout << "\n To upgrade my ship to a Linkor will cost " << (LINKOR_COST - myShip) << " Points\n";
 	_getch();
 	return 0;
+
 }
