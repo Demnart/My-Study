@@ -2,6 +2,7 @@
 #include<conio.h>
 
 using std::cout;
+using std::cin;
 using std::endl;
 
 int main() {
@@ -23,6 +24,10 @@ int main() {
 	cout << "Carrots = " << carrots << endl;
 	cout << "Potaetoes = " << potaetoes << endl;
 	cout << "ПРиивеееет\n";
+	cout << "Введите количество яблок ";
+	cin >> apple;
+	cout << "Нынешнее кол-во яблок : " << apple << endl;
+
 	_getch();
 	
 	return 0;
