@@ -1,4 +1,4 @@
-#include<iostream>
+п»ї#include<iostream>
 #include<conio.h>
 
 using std::cout;
@@ -6,13 +6,13 @@ using std::endl;
 
 int main() {
 	setlocale(LC_ALL, "Russian");
-	// Инициализация переменных
+	// РРЅРёС†РёР°Р»РёР·Р°С†РёСЏ РїРµСЂРµРјРµРЅРЅС‹С…
 	int apple;
 	int carrots;
 	int potaetoes;
 	double money;
 	char simbol;
-	// Присваивание переменным значений
+	// РџСЂРёСЃРІР°РёРІР°РЅРёРµ РїРµСЂРµРјРµРЅРЅС‹Рј Р·РЅР°С‡РµРЅРёР№
 	apple = 3;
 	carrots = 7;
 	potaetoes = 15;
@@ -22,7 +22,7 @@ int main() {
 	cout << "Apples =  " << apple << endl;
 	cout << "Carrots = " << carrots << endl;
 	cout << "Potaetoes = " << potaetoes << endl;
-	cout << "ПРиивеееет\n";
+	cout << "РџР РёРёРІРµРµРµРµС‚\n";
 	_getch();
 	
 	return 0;
