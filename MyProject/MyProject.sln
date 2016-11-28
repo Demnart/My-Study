@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Video_lection2", "Video_lec
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LostTreasure", "LostTreasure\LostTreasure.vcxproj", "{7248328B-F3A6-4D85-9843-2081978B7759}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C to F", "C to F\C to F.vcxproj", "{B0FD6356-AD6C-40E6-9972-51BDE5708EDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{7248328B-F3A6-4D85-9843-2081978B7759}.Release|x64.Build.0 = Release|x64
 		{7248328B-F3A6-4D85-9843-2081978B7759}.Release|x86.ActiveCfg = Release|Win32
 		{7248328B-F3A6-4D85-9843-2081978B7759}.Release|x86.Build.0 = Release|Win32
+		{B0FD6356-AD6C-40E6-9972-51BDE5708EDD}.Debug|x64.ActiveCfg = Debug|x64
+		{B0FD6356-AD6C-40E6-9972-51BDE5708EDD}.Debug|x64.Build.0 = Debug|x64
+		{B0FD6356-AD6C-40E6-9972-51BDE5708EDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0FD6356-AD6C-40E6-9972-51BDE5708EDD}.Debug|x86.Build.0 = Debug|Win32
+		{B0FD6356-AD6C-40E6-9972-51BDE5708EDD}.Release|x64.ActiveCfg = Release|x64
+		{B0FD6356-AD6C-40E6-9972-51BDE5708EDD}.Release|x64.Build.0 = Release|x64
+		{B0FD6356-AD6C-40E6-9972-51BDE5708EDD}.Release|x86.ActiveCfg = Release|Win32
+		{B0FD6356-AD6C-40E6-9972-51BDE5708EDD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
