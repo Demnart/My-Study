@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LogicOperation2", "LogicOpe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Switch", "Switch\Switch.vcxproj", "{82FDEC30-7C70-42B0-AD49-FB1614C2C073}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sqrt", "Sqrt\Sqrt.vcxproj", "{E59DCD77-731B-448B-9AF6-BFDC269AE668}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{82FDEC30-7C70-42B0-AD49-FB1614C2C073}.Release|x64.Build.0 = Release|x64
 		{82FDEC30-7C70-42B0-AD49-FB1614C2C073}.Release|x86.ActiveCfg = Release|Win32
 		{82FDEC30-7C70-42B0-AD49-FB1614C2C073}.Release|x86.Build.0 = Release|Win32
+		{E59DCD77-731B-448B-9AF6-BFDC269AE668}.Debug|x64.ActiveCfg = Debug|x64
+		{E59DCD77-731B-448B-9AF6-BFDC269AE668}.Debug|x64.Build.0 = Debug|x64
+		{E59DCD77-731B-448B-9AF6-BFDC269AE668}.Debug|x86.ActiveCfg = Debug|Win32
+		{E59DCD77-731B-448B-9AF6-BFDC269AE668}.Debug|x86.Build.0 = Debug|Win32
+		{E59DCD77-731B-448B-9AF6-BFDC269AE668}.Release|x64.ActiveCfg = Release|x64
+		{E59DCD77-731B-448B-9AF6-BFDC269AE668}.Release|x64.Build.0 = Release|x64
+		{E59DCD77-731B-448B-9AF6-BFDC269AE668}.Release|x86.ActiveCfg = Release|Win32
+		{E59DCD77-731B-448B-9AF6-BFDC269AE668}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
