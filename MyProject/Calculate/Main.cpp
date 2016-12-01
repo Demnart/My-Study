@@ -8,12 +8,13 @@ int main(){
 	int a;
 	int b;
 	char c;
+	bool doAgain = true;
 
-	cout << "\t\t***Calculator***" << endl;
-	cout << "Введите пожалуйста два числа ";
-	cin >> a >> b;
-	cout << "\nВыберите пожалуйста необходимую операцию ";
-	cin >> c;
+	do {
+		cout << "\t\t***Calculator***" << endl;
+		cout << "Введите пожалуйста число_операцию_число ";
+		cin >> a >> c >> b;
+
 
 		switch (c)
 		{
@@ -24,8 +25,8 @@ int main(){
 			cout << "Вы выбрали операцию вычитания . Результат равен " << (a - b) << endl;
 			break;
 		case '/':
-			cout << "Вы выбрали операцию деления . Результат равен " << (a / b) << endl; 
-				break;
+			cout << "Вы выбрали операцию деления . Результат равен " << (a / b) << endl;
+			break;
 		case '*':
 			cout << "Вы выбрали операцию умножения . Результат равен " << (a * b) << endl;
 			break;
@@ -38,6 +39,7 @@ int main(){
 			return -1;
 			break;
 		}
+	} while (doAgain);
 	
 
 
