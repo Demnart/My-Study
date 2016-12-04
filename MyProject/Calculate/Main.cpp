@@ -9,13 +9,12 @@ int main(){
 	int b;
 	char c;
 	bool doAgain = true;
+	char m;
 
 	do {
 		cout << "\t\t***Calculator***" << endl;
 		cout << "¬ведите пожалуйста число_операцию_число ";
 		cin >> a >> c >> b;
-
-
 		switch (c)
 		{
 		case '+':
@@ -38,6 +37,17 @@ int main(){
 			_getch();
 			return -1;
 			break;
+			
+		}
+		cout << "\n ∆елаете повторить операцию? y/n ";
+		cin >> m;
+		if (m == 'y') {
+			doAgain = true;
+		}
+		else
+		{
+			doAgain = false;
+			return -1;
 		}
 	} while (doAgain);
 	
