@@ -29,6 +29,11 @@ int main()
 		}
 		
 	}
+	system("cls");
+	cout << "\t\t\t***Исходный массив***\n";
+	for (int i = 0; i < 10; i++) {
+		cout << "A[" << i << "] = " << Array[i] << endl;
+	}
 	
 
 	_getch();
