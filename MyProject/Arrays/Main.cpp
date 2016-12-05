@@ -31,11 +31,27 @@ int main()
 	}
 	system("cls");
 	cout << "\t\t\t***Исходный массив***\n";
-	for (int i = 0; i < 10; i++) {
+	for (int i = 0; i < 10; i++)
+	{
 		cout << "A[" << i << "] = " << Array[i] << endl;
 	}
 	
-
+	int Max = Array[0];
+	int Min = Array[0];
+	for (int i = 1; i < 10; i++)
+	{ 
+		if (Max < Array[i])
+		{
+			Max = Array[i];
+		}
+		if (Min > Array[i])
+		{
+			Min = Array[i];
+		}
+	
+	}
+	cout << "Максимальное значение " << Max<<endl;
+	cout << "Минимальное значение  " << Min << endl;
 	_getch();
 	return 0;
 }
