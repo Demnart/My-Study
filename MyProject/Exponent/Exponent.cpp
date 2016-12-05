@@ -12,14 +12,12 @@ int main()
 
 	cout << "Введите степень в которую вы хотите возвести 2 ";
 	
-	if (!(cin>>nubmer)|| nubmer ==0 )
+	if (!(cin>>nubmer)|| (nubmer <=0))
 	{
 		cout << "Неверный ввод!!!";
 		_getch();
 		return -1;
 	}
-
-
 
 	for (int i = 1; i <= nubmer; i++)
 	{
