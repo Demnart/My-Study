@@ -36,8 +36,8 @@ int main()
 		cout << "A[" << i << "] = " << Array[i] << endl;
 	}
 	
-	int Max = Array[0];
-	int Min = Array[0];
+	int Max =0;
+	int Min =Array[0];
 	for (int i = 1; i < 10; i++)
 	{ 
 		if (Max < Array[i])
