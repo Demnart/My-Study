@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays2", "Arrays2\Arrays2.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArraysSum", "ArraysSum\ArraysSum.vcxproj", "{55F08289-3BA7-490E-87FD-43AD3292C79D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayIndex", "ArrayIndex\ArrayIndex.vcxproj", "{41689967-FE82-4700-B0B9-D323D947B81C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{55F08289-3BA7-490E-87FD-43AD3292C79D}.Release|x64.Build.0 = Release|x64
 		{55F08289-3BA7-490E-87FD-43AD3292C79D}.Release|x86.ActiveCfg = Release|Win32
 		{55F08289-3BA7-490E-87FD-43AD3292C79D}.Release|x86.Build.0 = Release|Win32
+		{41689967-FE82-4700-B0B9-D323D947B81C}.Debug|x64.ActiveCfg = Debug|x64
+		{41689967-FE82-4700-B0B9-D323D947B81C}.Debug|x64.Build.0 = Debug|x64
+		{41689967-FE82-4700-B0B9-D323D947B81C}.Debug|x86.ActiveCfg = Debug|Win32
+		{41689967-FE82-4700-B0B9-D323D947B81C}.Debug|x86.Build.0 = Debug|Win32
+		{41689967-FE82-4700-B0B9-D323D947B81C}.Release|x64.ActiveCfg = Release|x64
+		{41689967-FE82-4700-B0B9-D323D947B81C}.Release|x64.Build.0 = Release|x64
+		{41689967-FE82-4700-B0B9-D323D947B81C}.Release|x86.ActiveCfg = Release|Win32
+		{41689967-FE82-4700-B0B9-D323D947B81C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
