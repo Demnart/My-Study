@@ -29,7 +29,7 @@ int main()
 		sum += array[i];
 	}
 	cout << "Сумма всех элементов равна " << sum << endl;
-
+	cout << "Среднее арифметическое равно " << sum / 10 << endl;
 
 	_getch();
 	return 0;
