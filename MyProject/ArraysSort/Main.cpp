@@ -32,11 +32,17 @@ int main()
 	{
 		for(int j=0;j<i;j++)
 		{
-			double sort = array[j];
+			int sort = array[j];
 			array[j] = array[j + 1];
 			array[j + 1] = sort;
 		
 		}
+	}
+
+	cout << "Новый массив" << endl;
+	for (int i = 0; i < N; i++)
+	{
+		cout << "array[" << i << "] = " << array[i] << endl;
 	}
 
 	_getch();
