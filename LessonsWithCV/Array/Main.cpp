@@ -28,6 +28,14 @@ int main()
 		cout << "Student " << i + 1 << " imeet srednii bal " << students[i] << endl;
 	}
 
+	for (int i = 0; i < N; i++)
+	{
+		if (students[i] < 2.5)
+		{
+			cout << "Iskltceni sleduiushie studenti" << i + 1 << endl;
+		}
+	}
+
 
 	_getch();
 	return 0;
