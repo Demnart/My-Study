@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArraysSort", "ArraysSort\Ar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayStudents", "ArrayStudents\ArrayStudents.vcxproj", "{3AD94CF4-0683-46BB-8E22-0B7992983B88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Проект1", "Проект1\Проект1.vcxproj", "{E50CDA4A-802E-41F2-820F-4411BA5249DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{3AD94CF4-0683-46BB-8E22-0B7992983B88}.Release|x64.Build.0 = Release|x64
 		{3AD94CF4-0683-46BB-8E22-0B7992983B88}.Release|x86.ActiveCfg = Release|Win32
 		{3AD94CF4-0683-46BB-8E22-0B7992983B88}.Release|x86.Build.0 = Release|Win32
+		{E50CDA4A-802E-41F2-820F-4411BA5249DC}.Debug|x64.ActiveCfg = Debug|x64
+		{E50CDA4A-802E-41F2-820F-4411BA5249DC}.Debug|x64.Build.0 = Debug|x64
+		{E50CDA4A-802E-41F2-820F-4411BA5249DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{E50CDA4A-802E-41F2-820F-4411BA5249DC}.Debug|x86.Build.0 = Debug|Win32
+		{E50CDA4A-802E-41F2-820F-4411BA5249DC}.Release|x64.ActiveCfg = Release|x64
+		{E50CDA4A-802E-41F2-820F-4411BA5249DC}.Release|x64.Build.0 = Release|x64
+		{E50CDA4A-802E-41F2-820F-4411BA5249DC}.Release|x86.ActiveCfg = Release|Win32
+		{E50CDA4A-802E-41F2-820F-4411BA5249DC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
