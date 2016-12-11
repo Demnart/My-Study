@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeroInvetory", "HeroInvetor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic-Tac-Toe", "Tic-Tac-Toe\Tic-Tac-Toe.vcxproj", "{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Word Jumble", "Word Jumble\Word Jumble.vcxproj", "{825E655E-4126-4503-9C33-8A4746C5777E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Release|x64.Build.0 = Release|x64
 		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Release|x86.ActiveCfg = Release|Win32
 		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Release|x86.Build.0 = Release|Win32
+		{825E655E-4126-4503-9C33-8A4746C5777E}.Debug|x64.ActiveCfg = Debug|x64
+		{825E655E-4126-4503-9C33-8A4746C5777E}.Debug|x64.Build.0 = Debug|x64
+		{825E655E-4126-4503-9C33-8A4746C5777E}.Debug|x86.ActiveCfg = Debug|Win32
+		{825E655E-4126-4503-9C33-8A4746C5777E}.Debug|x86.Build.0 = Debug|Win32
+		{825E655E-4126-4503-9C33-8A4746C5777E}.Release|x64.ActiveCfg = Release|x64
+		{825E655E-4126-4503-9C33-8A4746C5777E}.Release|x64.Build.0 = Release|x64
+		{825E655E-4126-4503-9C33-8A4746C5777E}.Release|x86.ActiveCfg = Release|Win32
+		{825E655E-4126-4503-9C33-8A4746C5777E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
