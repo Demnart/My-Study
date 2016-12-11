@@ -30,7 +30,7 @@ int main()
 	//перемещивание символов в строке
 	string jumble = theWord;
 	int lenght = jumble.size();
-	
+	int score = lenght;
 	for (int i = 0; i < lenght; i++)
 	{
 		int index1 = (rand() % lenght);
@@ -54,6 +54,7 @@ int main()
 		if (guess == "hint")
 		{
 			cout << theHint;
+			--score;
 	}
 		else
 		{
@@ -67,6 +68,7 @@ int main()
 	if (guess == theWord)
 	{
 		cout << "\nThat's it. You guessed it!\n";
+		cout << "Your scoure is " << score;
 	}
 	cout << "\nThanks for playing\n";
 	_getch();
