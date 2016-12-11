@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "String", "String\String.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeroInvetory", "HeroInvetory\HeroInvetory.vcxproj", "{BDD5C83F-1735-41F8-9E39-F0ADA15355FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic-Tac-Toe", "Tic-Tac-Toe\Tic-Tac-Toe.vcxproj", "{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{BDD5C83F-1735-41F8-9E39-F0ADA15355FD}.Release|x64.Build.0 = Release|x64
 		{BDD5C83F-1735-41F8-9E39-F0ADA15355FD}.Release|x86.ActiveCfg = Release|Win32
 		{BDD5C83F-1735-41F8-9E39-F0ADA15355FD}.Release|x86.Build.0 = Release|Win32
+		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Debug|x64.ActiveCfg = Debug|x64
+		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Debug|x64.Build.0 = Debug|x64
+		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Debug|x86.Build.0 = Debug|Win32
+		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Release|x64.ActiveCfg = Release|x64
+		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Release|x64.Build.0 = Release|x64
+		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Release|x86.ActiveCfg = Release|Win32
+		{9D70A12D-F537-4E3C-BBB3-C6C54B1C1AAF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
