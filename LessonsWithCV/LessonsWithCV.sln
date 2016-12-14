@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic-Tac-Toe", "Tic-Tac-Toe\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Word Jumble", "Word Jumble\Word Jumble.vcxproj", "{825E655E-4126-4503-9C33-8A4746C5777E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vector", "Vector\Vector.vcxproj", "{CB10A933-494E-428F-A30A-E2C1D062CBCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{825E655E-4126-4503-9C33-8A4746C5777E}.Release|x64.Build.0 = Release|x64
 		{825E655E-4126-4503-9C33-8A4746C5777E}.Release|x86.ActiveCfg = Release|Win32
 		{825E655E-4126-4503-9C33-8A4746C5777E}.Release|x86.Build.0 = Release|Win32
+		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Debug|x64.ActiveCfg = Debug|x64
+		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Debug|x64.Build.0 = Debug|x64
+		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Debug|x86.Build.0 = Debug|Win32
+		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Release|x64.ActiveCfg = Release|x64
+		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Release|x64.Build.0 = Release|x64
+		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Release|x86.ActiveCfg = Release|Win32
+		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
