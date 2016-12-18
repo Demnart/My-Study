@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Word Jumble", "Word Jumble\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vector", "Vector\Vector.vcxproj", "{CB10A933-494E-428F-A30A-E2C1D062CBCE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Function1", "Function1\Function1.vcxproj", "{F3F35DC6-C350-49CB-92AC-A9D85011562C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Release|x64.Build.0 = Release|x64
 		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Release|x86.ActiveCfg = Release|Win32
 		{CB10A933-494E-428F-A30A-E2C1D062CBCE}.Release|x86.Build.0 = Release|Win32
+		{F3F35DC6-C350-49CB-92AC-A9D85011562C}.Debug|x64.ActiveCfg = Debug|x64
+		{F3F35DC6-C350-49CB-92AC-A9D85011562C}.Debug|x64.Build.0 = Debug|x64
+		{F3F35DC6-C350-49CB-92AC-A9D85011562C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3F35DC6-C350-49CB-92AC-A9D85011562C}.Debug|x86.Build.0 = Debug|Win32
+		{F3F35DC6-C350-49CB-92AC-A9D85011562C}.Release|x64.ActiveCfg = Release|x64
+		{F3F35DC6-C350-49CB-92AC-A9D85011562C}.Release|x64.Build.0 = Release|x64
+		{F3F35DC6-C350-49CB-92AC-A9D85011562C}.Release|x86.ActiveCfg = Release|Win32
+		{F3F35DC6-C350-49CB-92AC-A9D85011562C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
