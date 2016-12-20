@@ -22,6 +22,7 @@
     <ProjectGuid>{A362550C-5A00-4593-825A-5DC1078FADAE}</ProjectGuid>
     <RootNamespace>Listing64</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>Listing6.3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
